@@ -1,0 +1,18 @@
+#Profile a{
+  text-decoration: none !important;
+}
+ form div,h2{
+   padding: 10px;
+ }
+
+ .myposts .row>*{
+  padding-right: 0% !important;
+   padding-left: 0% !important;
+ }
+ .dec-none{
+   text-decoration: none;
+   color: black;
+ }
+ .dec-none:hover{
+   color: black;
+ }
